@@ -4,7 +4,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Backend
 ---------------------
 
-Sou um entusiasta de tecnologia com formação em Técnico em Informática. Atualmente, estou estagiando como Desenvolvedor Backend e graduando em Análise e Desenvolvimento de Sistemas.
+Sou um entusiasta de tecnologia com formação em Técnico em Informática. Atualmente, estou estagiando como Desenvolvedor Backend e graduando em Análise e Desenvolvimento de Sistemas além de estar inciando um curso de Big Data na Data Science Academy.
 
 * 🌍  Moro em Belo Horizonte, Brasil
 * ✉️  Você pode entrar em contato comigo em [arthur15.job@gmail.com](mailto:arthur15.job@gmail.com)
